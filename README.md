@@ -1,6 +1,4 @@
-# 20250616-133007-TempRepo-For-Agent-Copilot
-
-## TerraformParser PowerShell Module
+## PowerShell Terraform Parser
 
 A PowerShell module for parsing Terraform HCL (HashiCorp Configuration Language) code into PowerShell objects for easier manipulation and analysis.
 
